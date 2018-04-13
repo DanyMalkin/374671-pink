@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Игорь Железнов](https://up.htmlacademy.ru/adaptive/14/user/374671).
-* Наставник: `Неизвестно`.
+* Наставник: `Наставник не выбран, т.к. он не оплачен`.
 
 ---
 
